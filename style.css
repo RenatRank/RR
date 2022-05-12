@@ -1,0 +1,25 @@
+.contnr {
+    height: 200px;
+    width: 300px;
+
+}
+body{
+    background-color: #ADD8E6;
+}
+.inputBtn,.eraseBtn,.textBox{
+    background-color: seashell;
+    font-size: 14pt;
+    position: center}
+
+img{
+    display: block;
+    height: 100px;
+}
+
+.sum{
+    padding-left: 50px;
+
+}
+.sum1{
+    padding-left: 100px;
+}
